@@ -1,7 +1,7 @@
 body {
     font-family: Arial; /*Fuente del Texto*/
     margin: 0; /*Elimina margen externo por defecto*/
-    background: #111; /*Color de fondo*/
+    background: rgb(255, 255, 224); /*Color de fondo*/
     color: white; /*Color del texto*/
 }
 
